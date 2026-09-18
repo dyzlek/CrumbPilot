@@ -29,4 +29,4 @@ Then enable **Car Clicker** from the game's Mods menu.
 
 Use it for fun, and remember that automation can disable Steam achievements in Cookie Clicker.
 
-Made by **Moxolote** — with a completely serious driver-test thumbnail.
+Made by **Moxolote**.
