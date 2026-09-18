@@ -1,0 +1,12 @@
+{
+  "Name": "Car Clicker",
+  "ID": "Car Clicker",
+  "Author": "Moxolote",
+  "Description": "A simple autoclicker for cookies, golden cookies, and wrath cookies.",
+  "ModVersion": 1,
+  "GameVersion": 2.053,
+  "Date": "18/09/2026",
+  "Dependencies": [],
+  "Disabled": 0,
+  "AllowSteamAchievs": 0
+}
